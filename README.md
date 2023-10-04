@@ -1,5 +1,6 @@
-![My Notepad C# Part1](https://github.com/muhsan-javed/My_Notepad/assets/67718185/cd2de842-2a88-4d91-a758-e1b9f99b3f4b)# My_Notepad
+# My_Notepad
 
+Destroy Notepad Application
 
 # Contributing
 Contributions to the project are welcome. If you find any bugs or issues, please open an issue in the GitHub repository. If you want to contribute to the code, fork the repository and submit a pull request.
