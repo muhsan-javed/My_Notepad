@@ -2,6 +2,8 @@
 
 Destroy Notepad Application
 
+This is my first Windows Application
+
 # Contributing
 Contributions to the project are welcome. If you find any bugs or issues, please open an issue in the GitHub repository. If you want to contribute to the code, fork the repository and submit a pull request.
 
